@@ -7,7 +7,7 @@ List nama username **Github** di Trello untuk diundang sebagai collaborator di p
 Clone project ini dengan menggunakan perintah:
 
 ```bash
-git clone https://github.com/VierryFadhilah/Hotel-Realta-FrontEnd.git
+git clone https://github.com/Fal-hi/Hotel-Realta-FrontEnd.git
 ```
 
 Setelah clone project ini, buka di VS Code.
